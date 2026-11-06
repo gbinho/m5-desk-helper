@@ -1,0 +1,12 @@
+.pio/
+.venv/
+.vscode/
+tmp/
+pc/spotify.json
+pc/lastfm.json
+pc/rotina.json
+pc/companion.log*
+gifs/
+*.log
+__pycache__/
+.claude/
